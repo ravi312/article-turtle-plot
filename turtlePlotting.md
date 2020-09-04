@@ -1,6 +1,6 @@
 # Turtle Graphics to introduce Coordinate Geometry
 
-Turtle Graphics has been considered as one of the powerful instantiation of a constructionist microworld to introduce foundational programming concepts in an art-based context.() Its potentiality has been explored by several researchers (Papert, 1980; Abelson and DiSessa, 1981; Newell, 1988) to introduce mathematical ideas in an exploratory way.
+Turtle Graphics has been considered as one of the powerful instantiation of a constructionist microworld to introduce foundational programming concepts in an art-based context. Its potentiality has been explored by several researchers (Papert, 1980; Abelson and DiSessa, 1981; Newell, 1988) to introduce mathematical ideas in an exploratory way.
 
 The NCF(National Curriculum Framework) 2005 also embraces meaningful ways in which ICT can be integrated to teach discipline based subject. However, despite its popularity, the seamless integration of turtle Graphics in the mathematics curricula designed by the National Council of Educational Research and Training (NCERT) has not been observed. NCERT is an apex organization set up by the Government of India to advise on curriculum design and pedagogy related to school education. Though, there has been the peripheral introduction to the platform as one of the chapters in an ICT module of Grade 7 and 9. 
 
@@ -41,11 +41,11 @@ In the above section, we explored some of the mathematical ideas of coordinate g
 
 ## References
 
-Abelson, H. and DiSessa, A. A. (1981) Turtle geometry: the computer as a medium for exploring mathematics. Cambridge, Mass: MIT Press (The MIT Press series in artificial intelligence).
-Brennan, K. and Resnick, M. (2012) ‘New frameworks for studying and assessing the development of computational thinking’, p. 25.
-Jenkins, C. W. (2012) ‘Microworlds: Building Powerful Ideas in the Secondary School’, p. 8.
-Newell, B. (1988) Turtle Speaks Mathematics. Canberra: Curriculum Development Centre.
-Noss, R. and Hoyles, C. (2017) ‘Constructionism and Microworlds’, in Duval, E., Sharples, M., and Sutherland, R. (eds) Technology Enhanced Learning. Cham: Springer International Publishing, pp. 29–35. doi: 10.1007/978-3-319-02600-8_3.
+Abelson, H. and DiSessa, A. A. (1981) Turtle geometry: the computer as a medium for exploring mathematics. Cambridge, Mass: MIT Press (The MIT Press series in artificial intelligence).  
+Brennan, K. and Resnick, M. (2012) ‘New frameworks for studying and assessing the development of computational thinking’, p. 25.  
+Jenkins, C. W. (2012) ‘Microworlds: Building Powerful Ideas in the Secondary School’, p. 8.  
+Newell, B. (1988) Turtle Speaks Mathematics. Canberra: Curriculum Development Centre.  
+Noss, R. and Hoyles, C. (2017) ‘Constructionism and Microworlds’, in Duval, E., Sharples, M., and Sutherland, R. (eds) Technology Enhanced Learning. Cham: Springer International Publishing, pp. 29–35. doi: 10.1007/978-3-319-02600-8_3.  
 Papert, S. (1980) Mindstorms: children, computers, and powerful ideas. New York: Basic Books.
 
 
