@@ -1,6 +1,6 @@
 # Turtle Graphics to introduce Coordinate Geometry
 
-Turtle Graphics has been considered as one of the powerful instansiation of of a constructionist microworld. approaches to introduce foundational programming concepts in an art-based context. Its potentiality has been explored by researchers to introduce mathematical ideas in a constructionist environment by DiSessa, Papert et al.
+Turtle Graphics has been considered as one of the powerful instantiation of of a constructionist microworld. approaches to introduce foundational programming concepts in an art-based context. Its potentiality has been explored by researchers to introduce mathematical ideas in a constructionist environment by DiSessa, Papert et al.
 
 However, despite its popularity, the seamless integration in mathematics curricula of many of the boards in India has not been observed. There has been the peripheral introduction to the platform as one of the chapters in an ICT module in grade seven. 
 
@@ -21,19 +21,15 @@ This approach can be extended to plot other common curves. The topics are part o
 ## Plotting a point
 
 ![](./img/p-1.png)
-![](./img/p-2.png)
-![](./img/p-3.png)
-![](./img/p-4.png)
 ![](./img/p-5.png)
 
 ## Plotting a straight line
 
-![](./img/st-line-1.png)
 ![](./img/st-line-2.png)
 ![](./img/st-line-3.png)
 
 ## Plotting a parabola
-![](img/pb-1.png)
+
 ![](img/pb-2.png)
 ![](img/pb-3-1.png)
 ![](img/pb-4-1.png)
