@@ -1,20 +1,22 @@
 # Turtle Graphics to introduce Coordinate Geometry
 
-Turtle Graphics has been considered as one of the powerful instantiation of a constructionist microworld to introduce foundational programming concepts in an art-based context. Its potentiality has been explored by several researchers (Papert, 1980; Abelson and DiSessa, 1981; Newell, 1988) to introduce mathematical ideas in an exploratory way.
+Turtle Graphics is considered as one of the powerful instantiation of a constructionist learning environment to introduce foundational programming concepts in an art-based context.(cite?) Its potentiality also has been explored by several researchers (Papert, 1980; Abelson and DiSessa, 1981; Newell, 1988) to introduce mathematical ideas in an exploratory way.
 
-The NCF(National Curriculum Framework) 2005 also embraces meaningful ways in which ICT can be integrated to teach discipline based subject. However, despite its popularity, the seamless integration of turtle Graphics in the mathematics curricula designed by the National Council of Educational Research and Training (NCERT) has not been observed. NCERT is an apex organization set up by the Government of India to advise on curriculum design and pedagogy related to school education. Though, there has been the peripheral introduction to the platform as one of the chapters in an ICT module of Grade 7 and 9. 
+The NCF(National Curriculum Framework) 2005 embraces meaningful ways in which ICT can be integrated to teach discipline based subjects. However, despite its popularity, the seamless integration of turtle Graphics in the mathematics curricula designed by the National Council of Educational Research and Training (NCERT) has not been observed. Though, there has been the peripheral introduction to the platform as one of the chapters in Grade 7 and an independent unit in the ICT module for Grade 9. NCERT is an apex organization set up by the Government of India to advise on curriculum design and pedagogy related to school education.  
 
-One of the reason why turtle Graphics is not yet been part of mainstream mathematics curricula is because often the kind of mathematical ideas which can be explored in turtle Graphics microworld are different from the one in the syllabus, though equally important. DiSessa (Abelson and DiSessa, 1981) has also highlighted how the turtle geometry differs from the coordinate one. The easiest approach to make turtle Graphics mainstream would be to add turtle Geometry as part of core syllabus, however that would require systemic reform. A practical approach could be to explore ways, and ask this question - Are there ways some of the foundational mathematics ideas which are there in curriculum can also be explore using turtle Graphics approach? Also, how would turtle Graphics approach position itself with respect to conventional approach or other ICT based tools? The later question probes into "Why turtle Graphics" and former into "Which concepts  can be explored?".
+One of the reason why turtle Graphics is not yet been part of mainstream mathematics curricula is because often the kind of mathematical ideas which can be explored in turtle Graphics environment are different from the one that has been conventionally found in the syllabus, though equally important. For instance, DiSessa (Abelson and DiSessa, 1981) highlighted how the turtle geometry differs from the cartesian geometry and elaborated on detailed exploration of the former. 
+The easiest approach to make turtle Geometry mainstream would be to add it as part of core syllabus, however that would require systemic reform. A practical approach could be to explore ways, and ask this question - Are there ways some of the foundational mathematics ideas which are there presently in curriculum can be explored using turtle Graphics approach? How will this approach differ from the  conventional ways or integration of other ICT based tools to introduce the same? The later question probes into "Why turtle Graphics" and former into "What can be explored?".
 
-In this article, we attempt to elicit some of the foundation concepts of coordinate geometry using turtle Graphics approach.  We demonstrate three examples from coordinate geometry which are there in the high school mathematics curriculum 
+In this article, we will be partially trying to unpack the "why" and "what" questions by attempting to to elicit some of the foundational concepts of coordinate geometry using turtle Graphics. We demonstrate three examples which are there in the high school mathematics curriculum
 
 - plotting a point
 - plotting a straight line
 - plotting a parabola
 
-The same approach can be extended to plot other common curves. We have also created exemplar video resources using a "discourse-based approach" to help educators analyse and connect various concepts in a conversational settings. The links of the resources are shared in the notes section.
+The same approach can be extended to plot other common curves. We have also created exemplar video resources using "discourse-based approach" to help educators analyse and connect the scaffolding of the various concepts in a conversational settings which will be helpful during classroom transaction. The links of the resources are shared in the notes section.
 
 ## Introduction to cartesian coordinate
+
 
 ## Why cartesian coordinate exploration with turtleArt?
 
