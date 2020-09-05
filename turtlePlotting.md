@@ -53,5 +53,5 @@ Papert, S. (1980) Mindstorms: children, computers, and powerful ideas. New York:
 
 ## Notes
 
-- 
+- https://metastudio.org/t/plotting-function-in-turtle-graphics/4648/2
 
